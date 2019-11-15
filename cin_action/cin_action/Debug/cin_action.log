@@ -1,2 +1,38 @@
 ﻿  sample.c
-C:\dev\cin_action\cin_action\sample.c(19,1): error C2099: initializer is not a constant
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(23,6): warning C4189: 'newegg': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(33,6): warning C4189: 'a': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(34,6): warning C4189: 'b': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(93,18): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(100,21): warning C4047: '!=': 'int *' differs in levels of indirection from 'int'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(279,54): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(279,54): warning C4024: 'PrintArray': different types for formal and actual parameter 2
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(295,15): warning C4456: declaration of 'p' hides previous local declaration
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(208,8): message : see declaration of 'p'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(347,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(347,9): message : consider using '%lld' in the format string
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(347,9): message : consider using '%I64d' in the format string
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(410,19): warning C4456: declaration of 'buffer' hides previous local declaration
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(383,7): message : see declaration of 'buffer'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(435,15): warning C4456: declaration of 'p' hides previous local declaration
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(208,8): message : see declaration of 'p'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(437,10): warning C4456: declaration of 'c' hides previous local declaration
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(209,8): message : see declaration of 'c'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(458,15): warning C4456: declaration of 'p' hides previous local declaration
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(208,8): message : see declaration of 'p'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(309,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int **'
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(198,15): warning C4189: 'ui': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(287,8): warning C4189: 'string': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(200,11): warning C4189: 'li': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(199,12): warning C4189: 'si': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(309,7): warning C4189: 'my_pp': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(277,6): warning C4189: 'a2': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(369,6): warning C4189: 'fsize': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(276,6): warning C4189: 'a1': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(202,7): warning C4189: 'b': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(195,8): warning C4189: 'f': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(211,8): warning C4189: 'x': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(197,7): warning C4189: 'ch': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(332,6): warning C4189: 'm_val': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(196,9): warning C4189: 'd': local variable is initialized but not referenced
+C:\dev\c_pluralsight\cin_action\cin_action\sample.c(244,6): warning C4189: 'area': local variable is initialized but not referenced
+  cin_action.vcxproj -> C:\dev\c_pluralsight\cin_action\Debug\cin_action.exe
